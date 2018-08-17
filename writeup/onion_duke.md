@@ -7,7 +7,7 @@ And we have as attachment a text file containing:
 IHTIYYQOT  
 
 ## output
-Thanks to the hint, use [Python to shift](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/attachment/tenflo-onion.py).
+Thanks to the hint, use [Python to shift](attachment/tenflo-onion.py).
 
 And you have the flag:
-![flag](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/images/onion_duke_flag.png)
+![flag](images/onion_duke_flag.png)
