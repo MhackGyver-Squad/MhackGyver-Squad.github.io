@@ -17,6 +17,6 @@ $ qemu-system-mipsel -kernel misc300.elf -nographic -m 256
 
 Wait for the booting stuff.  
 And go to OPKG file:
-![OPKG stuff](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/images/Misc3.png)
+![OPKG stuff](images/Misc3.png)
 
 The flag is __flag{RWSvIveoiFjI6WS/h3J8Us0wUEjA53cQLuHJEwOD/sT5JsGvguZjlKmU}__
