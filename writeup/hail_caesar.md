@@ -6,4 +6,4 @@ WKXLLGZUV
 
 ## output
 We used dcode.fr to grab this one:
-![flag](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/images/hail_caesar_flag.png)
+![flag](images/hail_caesar_flag.png)
