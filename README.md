@@ -109,6 +109,8 @@ In this website you can:
 - [Meepwn CTF Quals 2018](https://ctf.meepwn.team/) (position 280/744)
 - [ISITDTU CTF 2018 Quals](https://ctf.isitdtu.com/) (position 126/320)
 - [CODE BLUE CTF 2018 Quals](http://ctf.codeblue.jp/) (position 161/542)
+- [TJCTF 2018](https://tjctf.org/) (position 128/1016)
+![Scoreboard](https://raw.githubusercontent.com/MhackGyver-Squad/MhackGyver-Squad.github.io/master/images/TJCTF%20128%C3%A8me%20sur%201016.png "TJCTF 2018 scoreboard")
 
 ## Members
 ### [tenflo aka Captain Flo](https://github.com/tenflo)
