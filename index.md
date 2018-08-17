@@ -9,7 +9,7 @@ In this website you can:
 - [meet the team members](index.md#members)
 
 ## Writeups
-- [Android Serial](AndroidSerial.md#members)
+- [Android Serial](writeup/AndroidSerial.md#members)
 
 ## Challenges & Events
 - [cyber@hack 2016](https://www.cyberathack.com/) (position 8/50)
