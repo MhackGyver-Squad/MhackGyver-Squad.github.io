@@ -1,6 +1,6 @@
 ## input
 IP: http://54.89.146.217/  
-![osint200.png](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/images/osint200.png)
+![osint200.png](images/osint200.png)
 HINT:- OSINT200 John is so mean, he won't help.  
 HINT:- OSINT200 1. Check RFC 7033 2. Check webfinger
 
