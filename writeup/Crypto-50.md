@@ -1,5 +1,5 @@
 ## input  
-Decode [ME](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/attachment/enc.txt) faster !
+Decode [ME](attachment/enc.txt) faster !
 
 ## output
 When we open the file, it looks like base64 encoded. So we try to decode the file:
