@@ -108,6 +108,7 @@ In this website you can:
 - [Security Fest CTF](https://securityfest.ctf.rocks/) (position 85/546)
 - [Meepwn CTF Quals 2018](https://ctf.meepwn.team/) (position 280/744)
 - [ISITDTU CTF 2018 Quals](https://ctf.isitdtu.com/) (position 126/320)
+- [CODE BLUE CTF 2018 Quals](http://ctf.codeblue.jp/) (position 161/542)
 
 ## Members
 ### [tenflo aka Captain Flo](https://github.com/tenflo)
