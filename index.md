@@ -9,7 +9,20 @@ In this website you can:
 - [meet the team members](index.md#members)
 
 ## Writeups
-- [Android Serial](writeup/AndroidSerial.md#members)
+- [Android Serial](writeup/AndroidSerial.md)
+- [Anon Email](writeup/AnonEmail.md)
+- [Crypto-50](writeup/Crypto-50.md)
+- [Misc 3](writeup/Misc3.md)
+- [Rescue Shell](writeup/NDH2k18_rescue_shell.md)
+- [Nyan Cat](writeup/NyanCat.md)
+- [OSINT](writeup/OSINT.md)
+- [Pwn 50](writeup/Pwn50.md)
+- [SQL The Injectioning](writeup/SQL_The_Injectioning.md)
+- [SUPER Secret Cross-site Cookies](writeup/SUPER_Secret_Cross-site_Cookies.md)
+- [We've discovered another planet!](writeup/We've_discovered_another_planet!.md)
+- [hail caesar](writeup/hail_caesar.md)
+- [onion duke](writeup/onion_duke.md)
+- [threads](writeup/threads.md)
 
 ## Challenges & Events
 - [cyber@hack 2016](https://www.cyberathack.com/) (position 8/50)
