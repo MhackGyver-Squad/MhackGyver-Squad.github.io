@@ -107,6 +107,7 @@ In this website you can:
 - [RCTF 2018](https://ctf.teamrois.cn/) (position 233/400)
 - [Security Fest CTF](https://securityfest.ctf.rocks/) (position 85/546)
 - [Meepwn CTF Quals 2018](https://ctf.meepwn.team/) (position 280/744)
+- [ISITDTU CTF 2018 Quals](https://ctf.isitdtu.com/) (position 126/320)
 
 ## Members
 ### [tenflo aka Captain Flo](https://github.com/tenflo)
