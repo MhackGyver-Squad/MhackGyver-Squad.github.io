@@ -129,6 +129,8 @@ In this website you can:
 - [TJCTF 2018](https://tjctf.org/) (position 128/1016)
 ![Scoreboard](https://raw.githubusercontent.com/MhackGyver-Squad/MhackGyver-Squad.github.io/master/images/TJCTF%20128%C3%A8me%20sur%201016.png "TJCTF 2018 scoreboard")
 - [WhiteHat Grand Prix 2018 – Quals](https://grandprix.whitehatvn.com/) (position 325/361)
+- [IceCTF 2018](http://icec.tf/) (position 707/1746)
+- [CSAW CTF Qualification Round 2018](https://ctf.csaw.io/) (position 611/671)
 
 ## Members
 ### [tenflo aka Captain Flo](https://github.com/tenflo)
