@@ -131,6 +131,9 @@ In this website you can:
 - [WhiteHat Grand Prix 2018 – Quals](https://grandprix.whitehatvn.com/) (position 325/361)
 - [IceCTF 2018](http://icec.tf/) (position 707/1746)
 - [CSAW CTF Qualification Round 2018](https://ctf.csaw.io/) (position 611/671)
+- [DefCamp CTF Qualification 2018](https://dctf.def.camp/) (position 280/406)
+- [Hackover CTF 2018](https://ctf.hackover.de/) (position 174/201)
+- [InCTF 2018](https://ctf.inctf.in/) (position 195/306)
 
 ## Members
 ### [tenflo aka Captain Flo](https://github.com/tenflo)
