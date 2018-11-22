@@ -134,6 +134,9 @@ In this website you can:
 - [DefCamp CTF Qualification 2018](https://dctf.def.camp/) (position 280/406)
 - [Hackover CTF 2018](https://ctf.hackover.de/) (position 174/201)
 - [InCTF 2018](https://ctf.inctf.in/) (position 195/306)
+- [HITCON CTF 2018](https://ctf.hitcon.org/) (position 664/1167)
+- [Square CTF 2018](https://squarectf.com/2018/index.html) (position 519/595)
+- [RITSEC CTF 2018](http://ctf.ritsec.club/) (position 182/952)
 
 ## Members
 ### [tenflo aka Captain Flo](https://github.com/tenflo)
