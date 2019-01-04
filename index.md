@@ -138,40 +138,9 @@ In this website you can:
 - [Square CTF 2018](https://squarectf.com/2018/index.html) (position 519/595)
 - [RITSEC CTF 2018](http://ctf.ritsec.club/) (position 182/952)
 
-## Members
-### [tenflo aka Captain Flo](https://github.com/tenflo)
-General hacker, [CTF enthusiastic](http://www.wechall.net/fr/profile/tenflo), the only thing better than a realistic hacking challenge is the smile of the girls.
-
----
-
-### [Killkitten](https://github.com/Killkitten)
-Cute cat sneaking out flags from forensic stuff by following the unicorn trail.
-
----
-
-### [sk011](https://ctftime.org/user/23271)
-A pirate with skull and beard who surf on the network and sometimes need to do lock picking to open the treasure chest. 
-
----
-
-### [G](https://www.root-me.org/John_doo29)
-Mysterious guy playing with the web stuff. He likes doing combo like burp + sqlmap. 
-
----
-
-### [Fiora](https://ctftime.org/user/23457)
-Math and crypto stuff are too complicate for the guys. She doesn't give up until the logic of the key is clear.
-
----
-
-### [4383](https://github.com/4383)
-Development addict, system lover, security enthusiastic.   
-Also Python, Linux, Docker, DevOps evangelist.
-
 ## Follow Us
 [On CTF time](https://ctftime.org/team/30616)
 
 ## Sponsors
 ![Squad - Increase the strength of your infrastructure and applications](https://www.squad.fr/static/images/theme/logo_blue.png "Squad")
-
 Official website: [Squad](https://www.squad.fr/en/know-us/)
