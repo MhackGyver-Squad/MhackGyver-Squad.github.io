@@ -141,5 +141,6 @@ In this website you can:
 [On CTF time](https://ctftime.org/team/30616)
 
 ## Sponsors
-![Squad - Increase the strength of your infrastructure and applications](https://www.squad.fr/static/images/theme/logo_blue.png "Squad")
+![Squad - Increase the strength of your infrastructure and applications](https://www.squad.fr/static/images/theme/logo_blue.png "https://www.squad.fr")
+
 Official website: [Squad](https://www.squad.fr/en/know-us/)
