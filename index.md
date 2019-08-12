@@ -122,6 +122,7 @@ In this website you can:
 - [DEF CON CTF Qualifier 2018](http://oooverflow.io/) (position 315/586)
 - [RCTF 2018](https://ctf.teamrois.cn/) (position 233/400)
 - [Security Fest CTF](https://securityfest.ctf.rocks/) (position 85/546)
+- [Nuit du Hack XVI](https://nuitduhack.com/fr) (position 12/260)
 - [Meepwn CTF Quals 2018](https://ctf.meepwn.team/) (position 280/744)
 - [ISITDTU CTF 2018 Quals](https://ctf.isitdtu.com/) (position 126/320)
 - [CODE BLUE CTF 2018 Quals](http://ctf.codeblue.jp/) (position 161/542)
@@ -136,6 +137,15 @@ In this website you can:
 - [HITCON CTF 2018](https://ctf.hitcon.org/) (position 664/1167)
 - [Square CTF 2018](https://squarectf.com/2018/index.html) (position 519/595)
 - [RITSEC CTF 2018](http://ctf.ritsec.club/) (position 182/952)
+- [TUCTF 2018](https://tuctf.com/) (position 315/764)
+- [BCTF 2018](http://bctf.xctf.org.cn/) (position 176/318)
+- [X-MAS CTF 2018](https://www.xmas-ctf.cf/) (position 231/1378)
+Since 2019, we just add CTF that are not present on [CTFtime](https://ctftime.org/team/30616):
+- [BreizhCTF 2K19](https://www.breizhctf.com/) (position 31/60)
+![Scoreboard]
+- [Hack In Paris 2019 Wargame](https://hackinparis.com/) (position 21/??)
+![Scoreboard]
+- [leHACK](https://lehack.org/fr) (position 23/411)
 
 ## Follow Us
 [On CTF time](https://ctftime.org/team/30616)
