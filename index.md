@@ -148,6 +148,8 @@ In this website you can:
 - [Hack In Paris 2019 Wargame](https://hackinparis.com/) (position 21/??)
 ![Scoreboard](https://raw.githubusercontent.com/MhackGyver-Squad/MhackGyver-Squad.github.io/master/images/HIP_scoreboard.png "HIP 2019 scoreboard")
 - [leHACK](https://lehack.org/fr) (position 23/411)
+- [FIC 2020](https://www.forum-fic.com/accueil/challenges/les-challenges.htm) (position 22/53)
+![Scoreboard](https://raw.githubusercontent.com/MhackGyver-Squad/MhackGyver-Squad.github.io/master/images/FIC_2020_22eme_sur_53.png "FIC 2020 scoreboard")
 
 ## Follow Us
 [On CTF time](https://ctftime.org/team/30616)
